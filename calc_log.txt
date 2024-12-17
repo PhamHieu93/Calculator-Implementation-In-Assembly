@@ -1,0 +1,3 @@
+Your initial expression: 2^200
+Result is: 160693804E52
+Your initial expression: quit
